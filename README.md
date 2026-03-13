@@ -11,6 +11,7 @@ How to interact with actors.
 How to apply damage and update values like health,score and gold.
 How to use moddeling inside unreal for basic shapes. (Create basic shapes, Use boolean, use patern and merge actors)
 How to Prototype a level with brushes.
+How to use Blueprint Debugger.
 UI for player overlay.
 
 After implementing the basic version, the system will be refactored to demonstrate more advanced Unreal Engine techniques such as:
