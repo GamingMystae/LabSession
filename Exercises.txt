@@ -1,0 +1,9 @@
+Exercises
+
+1) Check the logic of all the Blueprints (Read the comments)
+2) Create 4 buttons around the level for destroying the boss drone!! ( All the buttons must be pressed)
+3) fix the problem with the sound of spikes. it can be heard all around the level.
+4) Create a moving block between the traps so can jump on it and pass the traps.
+5) Add anything you like!!
+
+Enjoy!!!
